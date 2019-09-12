@@ -1,0 +1,252 @@
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\FBoxClientDriver.Contract.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\FBoxClientDriver.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\IdentityModel.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.AsyncEx.Coordination.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.Collections.Deque.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.Disposables.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Buffers.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Memory.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Reactive.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\TimeZoneConverter.dll
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\FBoxClientDriver.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\FBoxClientDriver.Contract.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\IdentityModel.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.AsyncEx.Coordination.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.Collections.Deque.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.Disposables.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Buffers.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.ComponentModel.Annotations.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Memory.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Reactive.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\TimeZoneConverter.xml
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\MSI\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\FBoxClientDriver.Contract.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\FBoxClientDriver.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\IdentityModel.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.AsyncEx.Coordination.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.Collections.Deque.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.Disposables.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Buffers.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Memory.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Reactive.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\TimeZoneConverter.dll
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\FBoxClientDriver.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\FBoxClientDriver.Contract.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\IdentityModel.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.AsyncEx.Coordination.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.Collections.Deque.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\Nito.Disposables.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Buffers.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.ComponentModel.Annotations.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Memory.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Reactive.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\bin\Debug\TimeZoneConverter.xml
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\MSI\Desktop\demo\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\FBoxClientDriver.Contract.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\FBoxClientDriver.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\IdentityModel.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Nito.AsyncEx.Coordination.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Nito.Collections.Deque.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Nito.Disposables.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Buffers.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Memory.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Reactive.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\TimeZoneConverter.dll
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\FBoxClientDriver.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\FBoxClientDriver.Contract.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\IdentityModel.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Nito.AsyncEx.Coordination.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Nito.Collections.Deque.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\Nito.Disposables.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Buffers.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.ComponentModel.Annotations.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Memory.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Reactive.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\TimeZoneConverter.xml
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.manifest
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\bin\Debug\ConsoleApp3.application
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.exe.manifest
+C:\Users\MSI\Desktop\alba-elektronik\HMI-SQL\Codes\Duplicates\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.application
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.manifest
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\ConsoleApp3.application
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\FBoxClientDriver.Contract.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\FBoxClientDriver.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\IdentityModel.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Nito.AsyncEx.Coordination.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Nito.Collections.Deque.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Nito.Disposables.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Buffers.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Memory.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Reactive.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\TimeZoneConverter.dll
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\FBoxClientDriver.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\FBoxClientDriver.Contract.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\IdentityModel.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Nito.AsyncEx.Coordination.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Nito.Collections.Deque.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Nito.Disposables.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Buffers.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.ComponentModel.Annotations.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Memory.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Reactive.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\TimeZoneConverter.xml
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.Form1.resources
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.exe.manifest
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.application
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\obj\Debug\ConsoleApp3.Properties.Resources.resources
+C:\Users\MSI\Desktop\save5 console app1\ConsoleApp3\bin\Debug\Animator.dll
